@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 definirNumero(bolaSorteada);
 
             }   else{
-                    Toast.makeText(getApplicationContext(), "Fim da rodada.", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), R.string.fim_da_rodada, Toast.LENGTH_SHORT).show();
                     this.viewHolder.btnNovoSorteio.setVisibility(View.VISIBLE);
                 }
 

@@ -3,4 +3,5 @@
     <string name="bingo_sdm">Bingo SDM</string>
     <string name="coluna">Coluna</string>
     <string name="numero">Número</string>
+    <string name="fim_da_rodada">Fim da rodada.</string>
 </resources>
